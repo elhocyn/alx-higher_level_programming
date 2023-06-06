@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 # 6-print_comb3.py
 
-"""Print all possible different to combinations of two digits in ascending order.
+"""Print all possible different combinations of two digits in ascending order.
 
-    The two digits the must be different - 01 and 10 are considered identical.
+    The two digits must be different - 01 and 10 are considered identical.
     """
 for digit1 in range(0, 10):
     for digit2 in range(digit1 + 1, 10):
