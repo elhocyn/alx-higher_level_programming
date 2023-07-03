@@ -12,9 +12,9 @@ Usage Example:
 class Rectangle:
     """Defines the blueprint of a rectangle.
     Attribute:
-        width: An integer indicating the width 
+width: An integer indicating the width
             of the rectangle object.
-        height: An integer indicating the height 
+height: An integer indicating the height
             of the rectangle object.
     """
     def __init__(self, width=0, height=0):
