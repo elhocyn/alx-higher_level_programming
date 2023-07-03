@@ -8,7 +8,7 @@ N must be an integer greater than or equal to 4.
 Attributes:
     board (list): A list of lists representing the chessboard.
     solutions (list): A list of lists containing solutions.
-Solutions are represented in the format 
+Solutions are represented in the format
 [[r, c], [r, c], [r, c], [r, c]]
 where `r` and `c` represent the row and column,
 respectively, where a
